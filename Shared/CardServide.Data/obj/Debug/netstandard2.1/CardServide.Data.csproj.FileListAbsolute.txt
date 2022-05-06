@@ -1,0 +1,9 @@
+C:\Users\TJ\Desktop\projects\CardService\Shared\CardServide.Data\bin\Debug\netstandard2.1\CardServide.Data.deps.json
+C:\Users\TJ\Desktop\projects\CardService\Shared\CardServide.Data\bin\Debug\netstandard2.1\CardServide.Data.dll
+C:\Users\TJ\Desktop\projects\CardService\Shared\CardServide.Data\bin\Debug\netstandard2.1\CardServide.Data.pdb
+C:\Users\TJ\Desktop\projects\CardService\Shared\CardServide.Data\obj\Debug\netstandard2.1\CardServide.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TJ\Desktop\projects\CardService\Shared\CardServide.Data\obj\Debug\netstandard2.1\CardServide.Data.AssemblyInfoInputs.cache
+C:\Users\TJ\Desktop\projects\CardService\Shared\CardServide.Data\obj\Debug\netstandard2.1\CardServide.Data.AssemblyInfo.cs
+C:\Users\TJ\Desktop\projects\CardService\Shared\CardServide.Data\obj\Debug\netstandard2.1\CardServide.Data.csproj.CoreCompileInputs.cache
+C:\Users\TJ\Desktop\projects\CardService\Shared\CardServide.Data\obj\Debug\netstandard2.1\CardServide.Data.dll
+C:\Users\TJ\Desktop\projects\CardService\Shared\CardServide.Data\obj\Debug\netstandard2.1\CardServide.Data.pdb
